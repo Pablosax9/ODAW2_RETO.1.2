@@ -1,6 +1,6 @@
 # Reto 1.2 de HTML5 
 Nombre y Apellidos: Pablo Rodríguez Crespo
-URL del repositorio de gitlab:
+URL del repositorio de gitlab: https://github.com/Pablosax9/ODAW2_RETO.1.2.git
 Crea una pagina web con la siguiente información:
 1. **Mockup:** Página "Perfil de Estudiante"
 2. **Descripción de la página:**
